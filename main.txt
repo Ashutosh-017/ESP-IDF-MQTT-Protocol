@@ -1,0 +1,8 @@
+Q1 How to use this code 
+Ans Step (1) You only need to copy this code and past it on your main.c file
+    Step (2) Now you need to change WIFI SSID and Password.
+    
+    One more thing you can also use this code if you want to send message to some different MQTT broker.
+    For that you need to replace URI with your Broker URI.
+    You can also you this code with Username and Password Authentication Configuration.
+    
