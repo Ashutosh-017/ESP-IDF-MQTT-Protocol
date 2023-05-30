@@ -17,37 +17,7 @@ Before running this code, ensure that you have the following:
 
 ## Getting Started
 
-To run this code on your ESP32 device, follow these steps:
-
-1. Clone this repository to your local machine or download the code as a ZIP file.
-
-2. Connect your ESP32 device to your computer.
-
-3. Open a terminal or command prompt and navigate to the project directory.
-
-4. Configure the project by running the following command:
-
-   ```
-   idf.py menuconfig
-   ```
-
-   In the configuration menu, set the Wi-Fi credentials, MQTT broker URI, and other settings as required.
-
-5. Build and flash the code to your ESP32 device using the following command:
-
-   ```
-   idf.py -p PORT flash
-   ```
-
-   Replace `PORT` with the appropriate serial port connected to your ESP32 device.
-
-6. After flashing, monitor the device's output by running:
-
-   ```
-   idf.py -p PORT monitor
-   ```
-
-   You should see the device attempting to connect to Wi-Fi and then connecting to the MQTT broker if successful.
+Please go to my main.txt file 
 
 ## Usage
 
